@@ -11,7 +11,6 @@ function App() {
             <div>
                 <Navigation />
             </div>
-
             <div className="title" id="pageTitle"></div>
             <div>
                 <VegetablesAndFruits />
